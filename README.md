@@ -36,4 +36,4 @@ Pour cette raison, des **captures d'écran du projet** ont été ajoutées dans 
 
 ### Liste des inscrits
 
-![Liste des inscrits](liste_inscrits.png)
+![Liste des inscrits](liste-inscrits.png)
